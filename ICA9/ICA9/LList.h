@@ -1,5 +1,6 @@
-#ifndef LLISTH
 #pragma once
+#ifndef LLISTH
+#define LLISTH
 
 typedef struct student student;
 
